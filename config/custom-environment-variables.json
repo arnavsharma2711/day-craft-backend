@@ -1,0 +1,5 @@
+{
+  "env": "NODE_ENV",
+  "serviceName": "SERVICE_NAME",
+  "timezone": "TIMEZONE"
+}
